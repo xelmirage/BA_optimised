@@ -214,3 +214,9 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+.idea/BA_optimised.iml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/encodings.xml
+.idea/workspace.xml
+.idea/modules.xml
